@@ -19,5 +19,5 @@ function logWhisper(string){
    if(string.toLowerCase){
      console.log("I can\'t hear you!")
    }
-   
+
  }
